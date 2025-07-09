@@ -36,4 +36,6 @@ Near metro station (1 = Yes, 0 = No)
 Distance to nearest school (in km)
 
 City code
+![image](https://github.com/user-attachments/assets/6b986217-8ac6-4028-b80a-71cc97bad669)
+
 
